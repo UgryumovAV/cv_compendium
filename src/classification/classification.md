@@ -15,5 +15,5 @@
 * ImageNet10 - для AlexNet, ResNet, EfficientNet, ViT
 
 Документация:  
-* [Общая информация по архитектурам классификации изображений](../docs/classification/classification_general.md)
-* [Общая информация по используемым датасетам](../docs/datasets/datasets_general.md)
+* [Общая информация по архитектурам классификации изображений](../../docs/classification/classification_general.md)
+* [Общая информация по используемым датасетам](../../docs/datasets/datasets_general.md)
